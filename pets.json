@@ -1,0 +1,31 @@
+{
+  "pets": [
+    {
+      "name": "嘟嘟",
+      "image": "pet.png",
+      "screen": 0,
+      "type": "dog",
+      "size": 100,
+      "count": 1,
+      "enabled": true
+    },
+    {
+      "name": "二毛",
+      "image": "cat1.png",
+      "screen": 1,
+      "type": "cat",
+      "size": 100,
+      "count": 1,
+      "enabled": true
+    },
+    {
+      "name": "蒜蓉",
+      "image": "cat2.png",
+      "screen": 1,
+      "type": "cat",
+      "size": 100,
+      "count": 1,
+      "enabled": true
+    }
+  ]
+}
